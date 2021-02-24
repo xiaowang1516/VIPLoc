@@ -22,7 +22,7 @@
 
 
 ### **Citation**
-Please kindly cite our paper if NightSurveillance is helpful to your own work.
+Please kindly cite our paper if VIPLoc is helpful to your own work.
 
 bib:
 
